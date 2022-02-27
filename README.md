@@ -1,4 +1,6 @@
-# cs228-notes
+# apcsa-notes
+
+**BASEPLATE CODE - NOT COMPILED WITH SCSS OR COMPLETED NOTES**
 
 These notes are a consolidated & neatened version of notes for [APCSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course), and have been written by [Charlie Sokolove](https://csok.dev).
 
